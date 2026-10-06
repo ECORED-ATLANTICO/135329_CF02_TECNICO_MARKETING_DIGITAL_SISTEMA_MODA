@@ -168,7 +168,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/124108_CF02_DU.pdf',
+        download: 'downloads/124108_CF02_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -230,135 +230,134 @@ export default {
   referencias: [
     {
       referencia:
-        'Adventures Digital Agency. (Septiembre de 2018). <em>Ante todo, definamos términos: ¿Qué es el entorno digital?</em> ResearchGate',
+        'Adventures Digital Agency. (Septiembre de 2018). Ante todo, definamos términos: ¿Qué es el entorno digital? ResearchGate',
       link:
         'https://www.researchgate.net/publication/379381708_Ante_todo_definamos_terminos_Que_es_el_entorno_digital',
     },
     {
       referencia:
-        'Boada, N. (Julio de 2009). <em>Los 8 pasos de un plan de marketing en redes sociales.</em> Cyberclick.',
+        'Boada, N. (Julio de 2009). Los 8 pasos de un plan de marketing en redes sociales. Cyberclick.',
       link:
         'https://www.cyberclick.es/numerical-blog/los-8-pasos-de-un-plan-de-marketing-en-redes-sociales',
     },
     {
       referencia:
-        'Cibrián, I. (2018). <em>Marketing digital: Mide, analiza y mejora.</em> ESIC.',
+        'Cibrián, I. (2018). Marketing digital: Mide, analiza y mejora. ESIC.',
     },
     {
       referencia:
-        'Cyberclick Academy. (Abril de 2020). <em>¿Qué es el SEM o Search Engine Marketing?</em> (2021).',
+        'Cyberclick Academy. (Abril de 2020). ¿Qué es el SEM o Search Engine Marketing? (2021).',
       link: 'https://www.cyberclick.es/sem',
     },
     {
       referencia:
-        'Decisión Andina 351 de 1993. {Comisión del Acuerdo de Cartagena}. <em>Régimen común sobre derecho de autor y derechos conexos.</em> Diciembre de 1993.',
+        'Decisión Andina 351 de 1993. {Comisión del Acuerdo de Cartagena}. Régimen común sobre derecho de autor y derechos conexos. Diciembre de 1993.',
       link: 'https://www.wipo.int/wipolex/es/legislation/details/9445',
     },
     {
       referencia:
-        'De Castro, I. (Septiembre de 2019). <em>¿Qué son herramientas de marketing y por qué debo contar con ellas? Innovacode - Resolución de problemas.</em>',
+        'De Castro, I. (Septiembre de 2019). ¿Qué son herramientas de marketing y por qué debo contar con ellas? Innovacode - Resolución de problemas.',
     },
     {
       referencia:
-        'De Paul, V. (Diciembre de 2020). <em>20 ideas de redes sociales para mantener el feed de tu marca al día. Sprout Social.</em>',
+        'De Paul, V. (Diciembre de 2020). 20 ideas de redes sociales para mantener el feed de tu marca al día. Sprout Social.',
       link: 'https://sproutsocial.com/insights/ideas-de-redes-sociales/',
     },
     {
       referencia:
-        'Dotras, A. (2018). <em>Social Media. Herramientas y estrategias empresariales.</em> Ediciones de la U.',
+        'Dotras, A. (2018). Social Media. Herramientas y estrategias empresariales. Ediciones de la U.',
       link: '',
     },
     {
       referencia:
-        'Giraldo, V. (Febrero de 2019). <em>Plataformas digitales: ¿qué son y qué tipos existen?</em> Rock Content - ES.',
+        'Giraldo, V. (Febrero de 2019). Plataformas digitales: ¿qué son y qué tipos existen? Rock Content - ES.',
       link: 'https://rockcontent.com/es/blog/plataformas-digitales/',
     },
     {
       referencia:
-        'Giu, W. (Julio de 2018). <em>Qué es una Estrategia Digital.</em> WalterGiu.',
+        'Giu, W. (Julio de 2018). Qué es una Estrategia Digital. WalterGiu.',
       link: 'https://waltergiu.com/blog/que-es-una-estrategia-digital',
     },
     {
       referencia:
-        'Laudon, K., y Laudon, J. (2012). <em>Sistemas de información gerencial.</em> Pearson.',
+        'Laudon, K., y Laudon, J. (2012). Sistemas de información gerencial. Pearson.',
       link: 'https://es.calameo.com/read/0045399238b63175162a6',
     },
     {
-      referencia:
-        'Ley 23 de 1982. <em>Sobre derechos de autor.</em> Enero 28 de 1982.',
+      referencia: 'Ley 23 de 1982. Sobre derechos de autor. Enero 28 de 1982.',
       link:
         'https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=3431&dt=S',
     },
     {
       referencia:
-        'Proyecto de Ley 241 del 2011. <em>Por la cual se regula la responsabilidad por las infracciones al derecho de autor y los derechos conexos en internet.</em> Abril de 2011.',
+        'Proyecto de Ley 241 del 2011. Por la cual se regula la responsabilidad por las infracciones al derecho de autor y los derechos conexos en internet. Abril de 2011.',
       link:
         'http://www.informatica-juridica.com/proyecto-de-ley/proyecto-ley-241-derecho-autor-los-derechos-conexos-internet/',
     },
     {
       referencia:
-        'Ley 1834 del 2017. <em>Por medio de la cual se fomenta la economía creativa.</em> Mayo 23 de 2017.',
+        'Ley 1834 del 2017. Por medio de la cual se fomenta la economía creativa. Mayo 23 de 2017.',
       link:
         'http://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/30030647',
     },
     {
       referencia:
-        'Ley 1915 del 2018. <em>Por la cual se modifica la Ley 23 del 1982 y se establecen otras disposiciones en materia de derecho de autor y derechos conexos.</em> Julio de 2018.',
+        'Ley 1915 del 2018. Por la cual se modifica la Ley 23 del 1982 y se establecen otras disposiciones en materia de derecho de autor y derechos conexos. Julio de 2018.',
       link: '',
     },
     {
       referencia:
-        'MES academy. (Octubre de 2017). <em>Tono de comunicación en entornos digitales</em> - Lección 10 [Video]. YouTube.',
+        'MES academy. (Octubre de 2017). <>Tono de comunicación en entornos digitales - Lección 10 [Video]. YouTube.',
       link: 'https://www.youtube.com/watch?v=MIHtogevWZM&feature=youtu.be',
     },
     {
       referencia:
-        'MinTIC. (Septiembre de 2015). <em>Redes sociales: Leyes para tener en cuenta.</em> En TIC confío.',
+        'MinTIC. (Septiembre de 2015). Redes sociales: Leyes para tener en cuenta.</em> En TIC confío.',
       link:
         'https://www.mintic.gov.co/portal/inicio/Atencion-y-Servicio-a-la-Ciudadania/Preguntas-frecuentes/15261:En-TIC-Confio',
     },
     {
       referencia:
-        'Newberry, C. (Julio de 2020). <em>Análisis de redes sociales: Una guía para principiantes. Social Media Marketing & Management Dashboard.</em>',
+        'Newberry, C. (Julio de 2020). Análisis de redes sociales: Una guía para principiantes. Social Media Marketing & Management Dashboard.',
       link: 'https://blog.hootsuite.com/es/analisis-de-redes-sociales/',
     },
     {
-      referencia: 'OMPI. (2020). <em>¿Qué es la propiedad intelectual?</em>',
+      referencia: 'OMPI. (2020). ¿Qué es la propiedad intelectual?',
       link: 'https://www.wipo.int/publications/es/details.jsp?id=4528',
     },
     {
       referencia:
-        'Pérez, A. y Acosta, H. (2003). <em>La convergencia mediática: un nuevo escenario para la gestión de información.</em> Revista Cubana de Información en Ciencias de la Salud, 11(1).',
+        'Pérez, A. y Acosta, H. (2003). La convergencia mediática: un nuevo escenario para la gestión de información. Revista Cubana de Información en Ciencias de la Salud, 11(1).',
       link: '',
     },
     {
       referencia:
-        'Pino, C. (2009). <em>El entorno digital en la nueva era de los medios y la publicidad: la metamorfosis del consumidor.</em> Razón y Palabra, (66).',
+        'Pino, C. (2009). El entorno digital en la nueva era de los medios y la publicidad: la metamorfosis del consumidor. Razón y Palabra, (66).',
       link: 'https://www.redalyc.org/articulo.oa?id=199520908015',
     },
     {
-      referencia: 'SENA, (1989). <em>Hablemos de marketing.</em> 11-13.',
+      referencia: 'SENA, (1989). Hablemos de marketing. 11-13.',
       link: '',
     },
     {
       referencia:
-        'Silva, R. (2009). <em>Beneficios del comercio electrónico.</em> Perspectivas, (24), 151-164.',
+        'Silva, R. (2009). Beneficios del comercio electrónico. Perspectivas, (24), 151-164.',
       link: 'https://www.redalyc.org/articulo.oa?id=425942160008',
     },
     {
       referencia:
-        'Socialmood. (Marzo de 2020). <em>¿Qué es el SEO y por qué lo necesito?</em> 40deFiebre.',
+        'Socialmood. (Marzo de 2020). ¿Qué es el SEO y por qué lo necesito? 40deFiebre.',
       link: '',
     },
     {
       referencia:
-        'Thompson, I. (Octubre de 2006). <em>Definición de Marketing. Portal de marketing - Marketing-free.com.</em>',
+        'Thompson, I. (Octubre de 2006). Definición de Marketing. Portal de marketing - Marketing-free.com.',
       link:
         'https://www.marketing-free.com/marketing/definicion-marketing.html',
     },
     {
       referencia:
-        'Xie, Y. M. S. (2019). <em>Marketing digital: Navegando en aguas digitales, sumérgete conmigo.</em> Ediciones de la U.',
+        'Xie, Y. M. S. (2019). Marketing digital: Navegando en aguas digitales, sumérgete conmigo. Ediciones de la U.',
       link: '',
     },
   ],
@@ -468,12 +467,12 @@ export default {
       autores: [
         {
           nombre: 'Luz Karime Amaya Cabra',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
@@ -483,7 +482,7 @@ export default {
         },
         {
           nombre: 'Karine Isabel Ospino Fritz',
-          cargo: 'Validador y vinculador de recursos digitales',
+          cargo: 'Validadora y vinculadora de recursos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
@@ -491,7 +490,7 @@ export default {
   ],
   creditosAdicionales: {
     imagenes:
-      'Fotografías y vectores tomados de <a href="https://www.freepik.es/" target="_blank">www.freepik.es</a>, <a href="https://www.shutterstock.com/" target="_blank">www.shutterstock.com</a>, <a href="https://unsplash.com/" target="_blank">unsplash.com </a>y <a href="https://www.flaticon.com/" target="_blank">www.flaticon.com</a>',
+      'Fotografías y vectores tomados de <a href="https://www.magnific.com/es" target="_blank">www.magnific.com/es</a>, <a href="https://www.shutterstock.com/" target="_blank">www.shutterstock.com</a>, <a href="https://unsplash.com/" target="_blank">unsplash.com </a>y <a href="https://www.flaticon.com/" target="_blank">www.flaticon.com</a>',
     creativeCommons:
       'Licencia creative commons CC BY-NC-SA<br><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">ver licencia</a>',
   },
