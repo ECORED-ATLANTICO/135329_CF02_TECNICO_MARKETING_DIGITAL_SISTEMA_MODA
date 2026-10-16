@@ -51,15 +51,14 @@
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text El <em>marketing</em> digital ha tenido un gran desarrollo a medida que han evolucionado los medios de comunicación a lo largo de los últimos 40 años.
-    
+        p.banner-text El <em>marketing</em> digital ha tenido un gran desarrollo a medida que han evolucionado los medios de comunicación a lo largo de los últimos 40 años. A continuación, se presenta un breve recorrido por su historia, desde la perspectiva de Xie (2019).
     .bg-full-width.bg-fondo-2
       .p-4.p-lg-5
         PasosB.color-acento-contenido.bg-color-white.tarjeta.p-4
           .row(titulo="1440 - 1900 ").p-lg-4.align-items-center
             .col-lg-8.mb-4.mb-lg-0.order-lg-2
               h5 1440 - 1900 Aparece la publicidad impresa
-              p.mb-0 En 1440 se inventa la imprenta y con ella aparecen los medios impresos que en este periodo de tiempo permitieron por primera vez la difusión masiva de textos, como la revista o el periódico. Esto permitió la creación de posters y afiches para la promoción de las empresas del momento.
+              p.mb-0 En 1440 se inventa la imprenta y con ella aparecen los medios impresos que en este periodo de tiempo permitieron por primera vez la difusión masiva de textos, como la revista o el periódico. Esto permitió la creación de <em>posters</em> y afiches para la promoción de las empresas del momento.
             .col-lg-4.order-lg-1
               figure
                 img(src='@/assets/curso/tema2/8.png', alt='')

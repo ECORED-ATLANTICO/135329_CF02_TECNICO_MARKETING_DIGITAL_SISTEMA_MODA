@@ -44,26 +44,26 @@
       .col-lg-7.col-xl-4.mb-3.mb-lg-0
         .tarjeta-avatar-b.align-items-center.mb-3.position-relative(data-aos="fade-up")
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/intro/01.svg' alt='Conocimiento')
+            img(src='@/assets/curso/intro/img14.png' alt='Conocimiento')
           .tarjeta.tarjeta--azul
             .p-3
-              h5.mb-0 Conocimiento
+              h5.mb-0 Conocimientos.
           img.position-absolute.pst(src='@/assets/curso/intro/5.png', style="max-width: 101px" alt='')
 
         .tarjeta-avatar-b.align-items-center.mb-3.position-relative(data-aos="fade-down")
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/intro/02.svg' alt='')
+            img(src='@/assets/curso/intro/img14.png' alt='')
           .tarjeta.tarjeta--azul
             .p-3
-              h5.mb-0 Habilidades
+              h5.mb-0 Habilidades.
           img.position-absolute.pst(src='@/assets/curso/intro/6.png', style="max-width: 101px" alt='')
 
         .tarjeta-avatar-b.align-items-center.mb-3.position-relative(data-aos="fade-up")
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/intro/03.svg' alt='')
+            img(src='@/assets/curso/intro/img14.png' alt='')
           .tarjeta.tarjeta--azul
             .p-3
-              h5.mb-0 Actitudes
+              h5.mb-0 Actitudes.
           img.position-absolute.pst(src='@/assets/curso/intro/7.png', style="max-width: 101px" alt='')
       .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0
         figure
@@ -117,26 +117,26 @@
       .col-lg-7.col-xl-3.mb-3.mb-lg-0
         .tarjeta-avatar-b.align-items-center.mb-5.position-relative(data-aos="fade-up")
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/intro/01.svg' alt='')
+            img(src='@/assets/curso/intro/img14.png' alt='')
           .tarjeta.tarjeta--azul
             .p-4
-              h5.mb-0 Contenidos
+              h5.mb-0 Contenidos.
           img.position-absolute.pst(src='@/assets/curso/intro/11.png', style="max-width: 101px" alt='')
 
         .tarjeta-avatar-b.align-items-center.mb-5.position-relative(data-aos="fade-down")
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/intro/02.svg' alt='')
+            img(src='@/assets/curso/intro/img14.png' alt='')
           .tarjeta.tarjeta--azul
             .p-4
-              h5.mb-0 Recursos
+              h5.mb-0 Recursos.
           img.position-absolute.pst(src='@/assets/curso/intro/12.png', style="max-width: 101px" alt='')
 
         .tarjeta-avatar-b.align-items-center.mb-5.position-relative(data-aos="fade-up")
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/intro/03.svg' alt='')
+            img(src='@/assets/curso/intro/img14.png' alt='')
           .tarjeta.tarjeta--azul
             .p-4
-              h5.mb-0 Personas
+              h5.mb-0 Personas.
           img.position-absolute.pst(src='@/assets/curso/intro/13.png', style="max-width: 101px" alt='')
       .col-xl-5
         .bg-color-3.p-4.mb-3

@@ -236,7 +236,7 @@ export default {
     },
     {
       referencia:
-        'Boada, N. (Julio de 2009). Los 8 pasos de un plan de marketing en redes sociales. Cyberclick.',
+        'Boada, N. (Julio de 2009). Los 8 pasos de un plan de <em>marketing</em> en redes sociales. Cyberclick.',
       link:
         'https://www.cyberclick.es/numerical-blog/los-8-pasos-de-un-plan-de-marketing-en-redes-sociales',
     },
@@ -246,7 +246,7 @@ export default {
     },
     {
       referencia:
-        'Cyberclick Academy. (Abril de 2020). ¿Qué es el SEM o Search Engine Marketing? (2021).',
+        'Cyberclick Academy. (Abril de 2020). ¿Qué es el SEM o <em>Search Engine Marketing</em>? (2021).',
       link: 'https://www.cyberclick.es/sem',
     },
     {
@@ -256,21 +256,21 @@ export default {
     },
     {
       referencia:
-        'De Castro, I. (Septiembre de 2019). ¿Qué son herramientas de marketing y por qué debo contar con ellas? Innovacode - Resolución de problemas.',
+        'De Castro, I. (Septiembre de 2019). ¿Qué son herramientas de <em>marketing</em> y por qué debo contar con ellas? Innovacode - Resolución de problemas.',
     },
     {
       referencia:
-        'De Paul, V. (Diciembre de 2020). 20 ideas de redes sociales para mantener el feed de tu marca al día. Sprout Social.',
+        'De Paul, V. (Diciembre de 2020). 20 ideas de redes sociales para mantener el <em>feed</em> de tu marca al día. <em>Sprout Social</em>.',
       link: 'https://sproutsocial.com/insights/ideas-de-redes-sociales/',
     },
     {
       referencia:
-        'Dotras, A. (2018). Social Media. Herramientas y estrategias empresariales. Ediciones de la U.',
+        'Dotras, A. (2018). <em>Social Media</em>. Herramientas y estrategias empresariales. Ediciones de la U.',
       link: '',
     },
     {
       referencia:
-        'Giraldo, V. (Febrero de 2019). Plataformas digitales: ¿qué son y qué tipos existen? Rock Content - ES.',
+        'Giraldo, V. (Febrero de 2019). Plataformas digitales: ¿qué son y qué tipos existen? <em>Rock Content</em> - ES.',
       link: 'https://rockcontent.com/es/blog/plataformas-digitales/',
     },
     {
@@ -297,8 +297,7 @@ export default {
     {
       referencia:
         'Ley 1834 del 2017. Por medio de la cual se fomenta la economía creativa. Mayo 23 de 2017.',
-      link:
-        'http://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/30030647',
+      link: '',
     },
     {
       referencia:
@@ -318,7 +317,7 @@ export default {
     },
     {
       referencia:
-        'Newberry, C. (Julio de 2020). Análisis de redes sociales: Una guía para principiantes. Social Media Marketing & Management Dashboard.',
+        'Newberry, C. (Julio de 2020). Análisis de redes sociales: Una guía para principiantes. <em>Social Media Marketing & Management Dashboard</em>.',
       link: 'https://blog.hootsuite.com/es/analisis-de-redes-sociales/',
     },
     {
@@ -336,7 +335,7 @@ export default {
       link: 'https://www.redalyc.org/articulo.oa?id=199520908015',
     },
     {
-      referencia: 'SENA, (1989). Hablemos de marketing. 11-13.',
+      referencia: 'SENA, (1989). Hablemos de <em>marketing</em>. 11-13.',
       link: '',
     },
     {
@@ -351,13 +350,13 @@ export default {
     },
     {
       referencia:
-        'Thompson, I. (Octubre de 2006). Definición de Marketing. Portal de marketing - Marketing-free.com.',
+        'Thompson, I. (Octubre de 2006). Definición de <em>Marketing</em>. Portal de <em>marketing</em> - <em>Marketing-free</em>.com.',
       link:
         'https://www.marketing-free.com/marketing/definicion-marketing.html',
     },
     {
       referencia:
-        'Xie, Y. M. S. (2019). Marketing digital: Navegando en aguas digitales, sumérgete conmigo. Ediciones de la U.',
+        'Xie, Y. M. S. (2019). <em>Marketing digital</em>: Navegando en aguas digitales, sumérgete conmigo. Ediciones de la U.',
       link: '',
     },
   ],
