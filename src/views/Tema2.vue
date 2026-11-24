@@ -80,7 +80,7 @@
           .row(titulo="1973 - 1994").p-lg-4.align-items-center
             .col-lg-8.mb-4.mb-lg-0.order-lg-2
               h5 1973 - 1994 Emerge la era digital
-              p Aparecen las empresas que conocemos hasta el día de hoy. Motorola genera la primera llamada por teléfono móvil, IBM lanza su primer ordenador personal y Apple presenta su Macintosh en un comercial del #[em Superbowl].
+              p Aparecen las empresas que conocemos hasta el día de hoy. Motorola genera la primera llamada por teléfono móvil, IBM lanza su primer ordenador personal y Apple presenta su Macintosh en un comercial del #[em Super Bowl].
               p.mb-0 En este tiempo, se producen importantes avances en la tecnología 2G y se menciona por primera vez el #[em marketing] digital, dado que se crea la primera página web y se presenta de forma pública la #[em World Wide Web] (www); además, se da a conocer el primer buscador web y se evidencia una combinación de publicidad televisiva en los medios impresos.
             .col-lg-4.order-lg-1
               figure
@@ -148,7 +148,7 @@
                       img.d-none.d-md-block(src='@/assets/curso/tema2/23.svg', alt='')
                   .col-md
                     .h5.mb-2 Conveniencia
-                    p.mb-0 Supone el proceso de compra, teniendo en cuenta el servicio al cliente, la comodidad del consumidor y la claridad de la información del producto o servicio que va a adquirir; lo que permite fidelizar a un público.
+                    p.mb-0 Supone el proceso de compra, teniendo en cuenta el servicio al cliente, la comodidad del consumidor y la claridad de la información del producto o servicio que va a adquirir lo que permite fidelizar a un público.
                 img.position-absolute.pst-1(src='@/assets/curso/tema2/27.svg', style="max-width: 72px" alt='')
 
               .tarjeta.bg-color-13.p-3(x="86%" y="65%" numero="")

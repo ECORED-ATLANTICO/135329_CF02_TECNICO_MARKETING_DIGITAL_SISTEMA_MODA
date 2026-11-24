@@ -14,12 +14,12 @@
             figure
               img(src="@/assets/curso/tema4/1.png", data-aos="zoom-in")
           .col-lg-8
-            p De acuerdo con el portal web Walter Giu, una estrategia digital se define como “Una combinación de procesos que apuntan a identificar y aprovechar oportunidades digitales para mejorar las ventajas competitivas” (Giu, 2018); en otras palabras, es el conjunto y manejo de herramientas que se identifican para posicionar una empresa en la web.
+            p De acuerdo con el portal web Walter Giu, una estrategia digital se define como “una combinación de procesos que apuntan a identificar y aprovechar oportunidades digitales para mejorar las ventajas competitivas” (Giu, 2018); en otras palabras, es el conjunto y manejo de herramientas que se identifican para posicionar una empresa en la web.
             .row.align-items-center.bg-color-9.p-4
               .col-lg-auto.mb-3.mb-lg-0
                 img.d-lg-flex.d-none(src="@/assets/curso/tema4/2.svg").mx-auto
               .col-lg
-                p.mb-0 Dentro de la estructura de la estrategia digital, se tienen en cuenta una lista de acciones, donde se debe desarrollar una investigación previa, definir objetivos claros, determinar qué herramientas son útiles, ejecutar y realizar seguimiento de las tácticas propuestas y analizar los resultados. En la siguiente imagen, se detallan estas acciones.
+                p.mb-0 Dentro de la estructura de la estrategia digital, se tiene en cuenta una lista de acciones, donde se debe desarrollar una investigación previa, definir objetivos claros, determinar qué herramientas son útiles, ejecutar y realizar seguimiento de las tácticas propuestas y analizar los resultados. En la siguiente imagen, se detallan estas acciones.
 
         .row.justify-content-center.align-items-center.z-2.mb-5
           .col-lg-12

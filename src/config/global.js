@@ -251,7 +251,7 @@ export default {
     },
     {
       referencia:
-        'Decisión Andina 351 de 1993. {Comisión del Acuerdo de Cartagena}. Régimen común sobre derecho de autor y derechos conexos. Diciembre de 1993.',
+        'Decisión Andina 351 de 1993. Comisión del Acuerdo de Cartagena. Régimen común sobre derecho de autor y derechos conexos. Diciembre de 1993.',
       link: 'https://www.wipo.int/wipolex/es/legislation/details/9445',
     },
     {
@@ -270,12 +270,12 @@ export default {
     },
     {
       referencia:
-        'Giraldo, V. (Febrero de 2019). Plataformas digitales: ¿qué son y qué tipos existen? <em>Rock Content</em> - ES.',
-      link: 'https://rockcontent.com/es/blog/plataformas-digitales/',
+        'Montenegro, M. (2019, 14 de febrero). Plataformas digitales: ¿qué son y qué tipos existen? Analog.',
+      link: 'https://analoghq.ai/blog/es/plataformas-digitales/',
     },
     {
       referencia:
-        'Giu, W. (Julio de 2018). Qué es una Estrategia Digital. WalterGiu.',
+        'Giu, W. (Julio de 2018). Qué es una estrategia digital. WalterGiu.',
       link: 'https://waltergiu.com/blog/que-es-una-estrategia-digital',
     },
     {
@@ -306,12 +306,12 @@ export default {
     },
     {
       referencia:
-        'MES academy. (Octubre de 2017). <>Tono de comunicación en entornos digitales - Lección 10 [Video]. YouTube.',
+        'MES academy. (Octubre de 2017). Tono de comunicación en entornos digitales - Lección 10 [Video]. YouTube.',
       link: 'https://www.youtube.com/watch?v=MIHtogevWZM&feature=youtu.be',
     },
     {
       referencia:
-        'MinTIC. (Septiembre de 2015). Redes sociales: Leyes para tener en cuenta.</em> En TIC confío.',
+        'MinTIC. (Septiembre de 2015). Redes sociales: Leyes para tener en cuenta. En TIC confío.',
       link:
         'https://www.mintic.gov.co/portal/inicio/Atencion-y-Servicio-a-la-Ciudadania/Preguntas-frecuentes/15261:En-TIC-Confio',
     },
@@ -387,14 +387,14 @@ export default {
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Maria Camila Álvarez',
-          cargo: 'Contratista diseño Curricular',
+          nombre: 'María Camila Álvarez',
+          cargo: 'Contratista diseño curricular',
           centro:
             'Centro de Formación en Diseño, Confección y Moda - Regional Antioquia',
         },
         {
           nombre: 'Liliana Ceballos',
-          cargo: 'Contratista diseño Curricular',
+          cargo: 'Contratista diseño curricular',
           centro:
             'Centro de Formación en Diseño, Confección y Moda - Regional Antioquia',
         },
@@ -403,6 +403,16 @@ export default {
           cargo: 'Diseñador instruccional',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Revisor metodológico y pedagógico',
+          centro: 'Centro de Diseño Y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Uriel Darío González Montoya',
+          cargo: 'Acompañamiento pedagógico',
+          centro: 'Centro Agropecuario La Granja -Regional Tolima',
         },
       ],
     },
@@ -415,7 +425,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Carlos Andrés Diaz Pinto',
+          nombre: 'Carlos Andrés Díaz Pinto',
           cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -425,12 +435,12 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Zuleidy María Ruíz Torres',
+          nombre: 'Zuleidy María Ruiz Torres',
           cargo: 'Producción audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Adriana Marcela Suarez',
+          nombre: 'Adriana Marcela Suárez',
           cargo: 'Producción audiovisual',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -454,7 +464,7 @@ export default {
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Wilson Andrés Arenales Caceres',
+          nombre: 'Wilson Andrés Arenales Cáceres',
           cargo: 'Producción audiovisual',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',

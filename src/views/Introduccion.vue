@@ -159,7 +159,7 @@
     .row.justify-content-center
       .col-lg-6
         .cajon.color-acento-botones.bg-color-6.p-4.mb-4
-          p.mb-0.text-center En caso de alguna inquietud, no duden en escribirnos.
+          p.mb-0.text-center En caso de alguna inquietud, no dude en escribirnos.
 
 
     

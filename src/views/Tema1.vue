@@ -43,9 +43,9 @@
           .col-lg-8.order-lg-1
             .bloque-texto-b.color-secundario.p-3(data-aos="fade-up")
               .bloque-texto-b__texto
-                i.fas.fa-quote-left
+               
                 p.mb-0 Al hablar de entornos digitales, es imprescindible hablar de la convergencia digital, la cual se define como la homogeneización de soportes y productos que se mueven hacia un mismo fin, incluyendo aquí a la prensa, las telecomunicaciones y la industria audiovisual.
-                i.fas.fa-quote-right
+               
               .bloque-texto-d__autor 
                 .h5.mb-0  (Pérez y Acosta, 2003).
         
@@ -65,11 +65,11 @@
                     p Se podrían definir como los medios más importantes para tener presencia en internet, donde una marca o una empresa puede generar su propia voz, creando un espacio propio de información y diseñando experiencias únicas para sus usuarios. Estos medios están constituidos por contenidos, canales o espacios que una marca posee para ofrecer un producto o servicio en la web.
                 p.ms-5 Al hablar de medios propios, es preciso mencionar páginas web, aplicaciones móviles, micrositios creados para llegar a públicos muy segmentados, <em>blogs</em> o SEO (<em>Search Engine Optimization</em>). Todos ellos hacen referencia a los medios para captar usuarios orgánicamente, a través de la producción de contenidos que permitan la interacción o la publicación de elementos de opinión, además de las estrategias para posicionar la empresa o marca que desea tener un espacio en la web (Adventures Digital Agency, 2018).
               div(titulo="Medios pagados")
-                p.ms-5 Como su nombre lo indica, son medios que necesitan ser pagados para que una empresa o marca pueda definir mayor presencia en internet, lo cual permite segmentar adecuadamente el público al cual se desea llegar, siendo un mecanismo muy efectivo y eficaz para lograr los objetivos que se haya propuesto dentro del mundo digital. En otras palabras, se define como parte de las estrategias de publicidad pagada, como <em>display</em>, videos y audios (<em>banners</em> publicitarios), <em>search</em> (posicionamiento de una página web en el motor de búsqueda), <em>retargeting</em> (seguimiento a usuarios que navegan en la web para generar una conversación), <em>influencers</em> (persona que cuenta con una audiencia importante de seguidores para promocionar un producto o servicio) y patrocinios (pagos de contenidos promocionales). (Adventures Digital Agency, 2018).
+                p.ms-5 Como su nombre lo indica, son medios que necesitan ser pagados para que una empresa o marca pueda definir mayor presencia en internet, lo cual permite segmentar adecuadamente el público al cual se desea llegar, siendo un mecanismo muy efectivo y eficaz para lograr los objetivos que se haya propuesto dentro del mundo digital. En otras palabras, se define como parte de las estrategias de publicidad pagada, como <em>display</em>, videos y audios (<em>banners</em> publicitarios), <em>search</em> (posicionamiento de una página web en el motor de búsqueda), <em>retargeting</em> (seguimiento a usuarios que navegan en la web para generar una conversación), <em>influencers</em> (persona que cuenta con una audiencia importante de seguidores para promocionar un producto o servicio) y patrocinios (pagos de contenidos promocionales) (Adventures Digital Agency, 2018).
                 p.ms-5 Estos medios ejercen un impulso para dar a conocer en la web a la empresa o marca que lo requiere. Se enfocan en atraer nuevos usuarios y generan mayor tráfico, lo cual resulta muy beneficioso en conexión con los medios propios.
               div(titulo="Medios ganados")
                 p.ms-5 Mediante la integración de los medios propios y los medios pagados es como se obtienen los medios ganados, que se refieren al voz a voz de todas las conversaciones e interacciones que se generan alrededor de la empresa o marca en cuestión que se desenvuelve en la web. En estos medios es donde se evidencia la confianza y la presencia generada, a partir de la información compartida y las experiencias de los usuarios que participan, dando importancia a la generación de contenido por parte del usuario.
-                p.ms-5 En este punto se destacan las <em>mentions</em> (menciones de la marca por parte de los usuarios), <em>shares</em> (contenido de marca que se comparte), <em>repost</em> (publicación de contenidos que ha hecho la marca), <em>reviews</em> (crítica o reseña realizada a la marca). (Adventures Digital Agency, 2018).
+                p.ms-5 En este punto se destacan las <em>mentions</em> (menciones de la marca por parte de los usuarios), <em>shares</em> (contenido de marca que se comparte), <em>repost</em> (publicación de contenidos que ha hecho la marca), <em>reviews</em> (crítica o reseña realizada a la marca) (Adventures Digital Agency, 2018).
 
     .bg-full-width.bg-fondo-1
       .px-4.px-lg-5
@@ -92,7 +92,7 @@
         figure
           img(src="@/assets/curso/tema1/7.png", data-aos="zoom-in")
       .col-lg-8
-        p(data-aos="fade-right") De acuerdo con el portal web Rock Content (2019), las plataformas digitales son aquellos espacios en la web que permiten la ejecución de diversos programas o aplicaciones con la intención de suplir necesidades de los usuarios y facilitar el desarrollo de tareas. Teniendo en cuenta esto, es como se definen los objetivos específicos de cada una de ellas, como se puede detallar a continuación. 
+        p(data-aos="fade-right") De acuerdo con Montenegro (2019), las plataformas digitales son aquellos espacios en la web que permiten la ejecución de diversos programas o aplicaciones con la intención de suplir necesidades de los usuarios y facilitar el desarrollo de tareas. Teniendo en cuenta esto, se definen los objetivos específicos de cada una de ellas, como se puede detallar a continuación.
         p.mb-0 Podemos distinguir cuatro tipos de plataformas digitales:
     
     .row.mb-5.justify-content-center

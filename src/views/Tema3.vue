@@ -42,7 +42,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema3/4.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Con la información suministrada, se puede ver que la gran diferencia entre SEO y SEM radica en que la marca anunciante, por el hecho de realizar un pago definido, tendrá total certeza de posicionarse en las búsquedas relacionadas con su público objetivo. Mientras que el posicionamiento que no requiere de pago sí necesita mayor trabajo, con una constante generación de contenidos de interés y un sitio web que inspire visitar, con relación a determinadas palabras clave.
+            p.mb-0 Con la información suministrada, se puede ver que la gran diferencia entre SEO y SEM radica en que la marca anunciante, por el hecho de realizar un pago definido, tendrá total certeza de posicionarse en las búsquedas relacionadas con su público objetivo, mientras que el posicionamiento que no requiere de pago sí necesita mayor trabajo, con una constante generación de contenidos de interés y un sitio web que inspire visitar, con relación a determinadas palabras clave.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10

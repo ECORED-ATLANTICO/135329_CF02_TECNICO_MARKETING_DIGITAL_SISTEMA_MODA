@@ -193,7 +193,7 @@
             figcaption Nota. Adaptada de Xie (2019). #[em Marketing] digital: Navegando en aguas digitales, sumérgete conmigo.
         
         .cajon.color-acento-contenido.bg-color-9.p-4
-          p.mb-0 Entre las redes sociales más populares, se encuentran Facebook, Instagram, Twitter, Youtube, Tik Tok, Linkedin, Pinterest, entre otras.
+          p.mb-0 Entre las redes sociales más populares, se encuentran Facebook, Instagram, Twitter, You Tube, TikTok, LinkedIn, Pinterest, entre otras.
     
     separador
     
@@ -330,7 +330,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema5/25.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 De acuerdo con el portal web En TIC Confío (2015), en Colombia, el Ministerio de las TIC es el ente encargado de regular la actividad digital, y aunque no hay una normativa específica para <em>social media</em>, sí existen leyes que protegen la información y los datos personales, así como las tecnologías de la información y la comunicación en general. Es de resaltar que, en cuanto a las redes sociales, se puede acudir al Artículo 15 de la Constitución Nacional, que hace referencia al derecho a la intimidad personal y familiar y al buen nombre. Además, el Gobierno ha trabajado por la implementación de mecanismos jurídicos como la Ley 1273 de 2009, que modificó el Código Penal y donde se incluyen delitos digitales relacionados con la comprobación del acceso ilegal al perfil de otra persona o la violación de datos personales. Igualmente, la difamación por cualquier red social o la creación de sitios web fraudulentos, al sustentarse con las debidas pruebas, pueden ser castigados.
+        p.mb-0 De acuerdo con el portal web En TIC Confío (2015), en Colombia, el Ministerio de las TIC es el ente encargado de regular la actividad digital, y aunque no hay una normativa específica para <em>social media</em>, sí existen leyes que protegen la información y los datos personales, así como las tecnologías de la información y la comunicación en general. Es de resaltar que, en cuanto a las redes sociales, se puede acudir al artículo 15 de la Constitución Nacional, que hace referencia al derecho a la intimidad personal y familiar y al buen nombre. Además, el Gobierno ha trabajado por la implementación de mecanismos jurídicos como la Ley 1273 de 2009, que modificó el Código Penal y donde se incluyen delitos digitales relacionados con la comprobación del acceso ilegal al perfil de otra persona o la violación de datos personales. Igualmente, la difamación por cualquier red social o la creación de sitios web fraudulentos, al sustentarse con las debidas pruebas, pueden ser castigados.
     
     separador
     
@@ -351,7 +351,7 @@
               img(src="@/assets/curso/tema5/27.png", data-aos="zoom-in")
           .col-lg-8
             .cajon.color-acento-contenido.bg-color-9.p-4
-              p.mb-0 El concepto de propiedad intelectual (PI) “se refiere a las creaciones del intelecto: desde las obras de arte hasta las invenciones, los programas informáticos, las marcas y otros signos comerciales” (OMPI, 2020). De esta manera, se podría decir que la propiedad intelectual significa talento propio. Y allí entra en juego el derecho de autor, que comprende las facultades morales y de explotación que deberían ser reconocidas a una persona por su obra original. Los contenidos como fotos, gráficos, videos y diseños, son objeto de derechos de propiedad intelectual y se extienden a los entornos digitales donde se puede expresar el intelecto humano con sus creaciones.
+              p.mb-0 El concepto de propiedad intelectual (PI) “se refiere a las creaciones del intelecto: desde las obras de arte hasta las invenciones, los programas informáticos, las marcas y otros signos comerciales” (OMPI, 2020). De esta manera, se podría decir que la propiedad intelectual significa talento propio. Y allí entra en juego el derecho de autor, que comprende las facultades morales y de explotación que deberían ser reconocidas a una persona por su obra original. Los contenidos como fotos, gráficos, videos y diseños son objeto de derechos de propiedad intelectual y se extienden a los entornos digitales donde se puede expresar el intelecto humano con sus creaciones.
         
         separador
         
