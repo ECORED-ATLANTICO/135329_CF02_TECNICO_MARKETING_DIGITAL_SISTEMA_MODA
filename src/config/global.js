@@ -407,7 +407,7 @@ export default {
         {
           nombre: 'Andrés Felipe Velandia Espitia',
           cargo: 'Revisor metodológico y pedagógico',
-          centro: 'Centro de Diseño Y Metrología - Regional Distrito Capital',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Uriel Darío González Montoya',
@@ -420,7 +420,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Jesus Antonio Vecino Valero',
+          nombre: 'Jesús Antonio Vecino Valero',
           cargo: 'Diseñador web',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -446,7 +446,7 @@ export default {
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Angela Maldonado Jaime',
+          nombre: 'Ángela Maldonado Jaime',
           cargo: 'Producción audiovisual',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -458,7 +458,7 @@ export default {
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Gilberto Junior Rodriguez Rodriguez',
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
           cargo: 'Producción audiovisual',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',

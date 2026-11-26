@@ -148,7 +148,7 @@
                       img.d-none.d-md-block(src='@/assets/curso/tema2/23.svg', alt='')
                   .col-md
                     .h5.mb-2 Conveniencia
-                    p.mb-0 Supone el proceso de compra, teniendo en cuenta el servicio al cliente, la comodidad del consumidor y la claridad de la información del producto o servicio que va a adquirir lo que permite fidelizar a un público.
+                    p.mb-0 Supone el proceso de compra, teniendo en cuenta el servicio al cliente, la comodidad del consumidor y la claridad de la información del producto o servicio que va a adquirir, lo que permite fidelizar a un público.
                 img.position-absolute.pst-1(src='@/assets/curso/tema2/27.svg', style="max-width: 72px" alt='')
 
               .tarjeta.bg-color-13.p-3(x="86%" y="65%" numero="")
